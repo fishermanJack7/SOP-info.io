@@ -3,7 +3,10 @@ layout: default
 ---
 [Link to another page](./another-page.html).
 
-`666`.
+`Standard Operational Procedures (S.O.P)`.
+`This document is a collection of all policies, procedures, and tactics used by our Realism Milsim, and subsequently operatives as a whole. It serves as a resource and a guide, and should be referenced when training. This document will be updated periodically until its completion.
+
+While the tactics and methods described in this document are publicly available, the methods in which these tactics are curated and employed is specific to the SPECTRE Task Force.
 
 ## Header 2
 
