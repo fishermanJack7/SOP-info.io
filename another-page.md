@@ -4,16 +4,12 @@ layout: default
 
 ## Equipment Regulations
 ---
-layout: default
----
+_In this document, you will find the equipment regulations required to be part of the XDIA Realsim MIlsim. These are not ~~suggestions~~, while some of the items have some degree of personal preference (eg: positioning of items, positioning of sights on rifles, etc.) we strongly advise that all items should be present and in the correct amounts at all times. It is your responsibility to keep up to date with this document and to have the correct equipment when you join the server._
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+_If a piece of equipment or clothing isn't shown in this document it is ~~prohibited~~_
+**We highly suggest that you save these kits in-game.**
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
@@ -127,4 +123,5 @@ This is still a work-in-progress, In the future we plan to have all of this info
 The final element.
 ```
 
+[Link to another page](./another-page.html).
 [back](./)
