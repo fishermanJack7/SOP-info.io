@@ -30,9 +30,8 @@ XDIA and its leaders all stand by the notion that LIFE COMES FIRST. Nothing here
 XDIA Realism Milsim has a long-standing tradition of furthering the possibilities of its game platforms. In the case of ARMA REFORGER, XDIA's main game, many of our leaders have pioneered new methods of gameplay through utilizing the game’s systems that other communities have not. Some examples of this that we pride ourselves on are Civilian Injection (Covert Operation), HVT Operations, Indirect Fire and Close Air Support, Custom Operational Objectives, Comprehensive Overwatch (Clearing Map Boundaries), and Dynamic Operational Changes (Enemy QRF, Bomb Threats, VBIED Placement, Pilot Failures, Mortar Interception, etc.). All of these unique possibilities created by our technically savvy members, combined with a narratively cohesive experience, creates a level of immersion and interest that lasts.
 ```
 
-`Community structure`
-
-https://imgur.com/a/rank-structure-HCWPb56
+### Rank structure
+*   https://discord.com/channels/1184747461928034414/1184747463173754937
 
 #### Header 4
 
