@@ -9,13 +9,13 @@ layout: default
 > While the tactics and methods described in this document are publicly available, the methods in which these tactics are curated and employed is specific to the XDIA REALISM MILSIM.
 
 `What is XDIA`?
-> XDIA Realism Milsim is a wargaming community with a passion for operational competence through the use of tactics drawn from real-world military doctrine. We train to execute conflict-driven, narratively connected operations with a focus on immersion and variety in scope and objective. In short, XDIA is a military simulation group that strives to do MORE. The community is the product of years of development, thousands of hours of collective experience between our leadership, and learning from our mistakes. Through these things, SPECTRE as a whole strives to produce a unique, immersive military simulation experience.
+> XDIA Realism Milsim is a wargaming community with a passion for operational competence through the use of tactics drawn from real-world military doctrine. We train to execute conflict-driven, narratively connected operations with a focus on immersion and variety in scope and objective. In short, XDIA is a military simulation group that strives to do MORE. The community is the product of years of development, thousands of hours of collective experience between our leadership, and learning from our mistakes. Through these things, XDIA as a whole strives to produce a unique, immersive military simulation experience.
 
 
 ## What are the core values?
 
 > Discipline: All of our members strive to be skilled professionals, and are willing to put aside ego to achieve that.
-> Brotherhood: Everyone in SPECTRE is a brother or sister with the rest - we all fight for each other before ALL else.
+> Brotherhood: Everyone in XDIA is a brother or sister with the rest - we all fight for each other before ALL else.
 > Desire to Improve: All of us are constantly seeking to improve through self-reflection and analysis, and take pride in self-accountability.
 
 ### What commitment does XDIA require?
