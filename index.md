@@ -12,20 +12,22 @@ layout: default
 > XDIA Realism Milsim is a wargaming community with a passion for operational competence through the use of tactics drawn from real-world military doctrine. We train to execute conflict-driven, narratively connected operations with a focus on immersion and variety in scope and objective. In short, XDIA is a military simulation group that strives to do MORE. The community is the product of years of development, thousands of hours of collective experience between our leadership, and learning from our mistakes. Through these things, SPECTRE as a whole strives to produce a unique, immersive military simulation experience.
 
 
-## Header 2
+## What are the core values?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Discipline: All of our members strive to be skilled professionals, and are willing to put aside ego to achieve that.
+> Brotherhood: Everyone in SPECTRE is a brother or sister with the rest - we all fight for each other before ALL else.
+> Desire to Improve: All of us are constantly seeking to improve through self-reflection and analysis, and take pride in self-accountability.
 
-### Header 3
+### What commitment does XDIA require?
 
 ```js
-a shitload of words
+XDIA and its leaders all stand by the notion that LIFE COMES FIRST. Nothing here means anything if it detracts from the human experience, and we do not have explicit activity requirements for that reason. All we ask is that as an operative, you strive to embody our core pillars, and continue to grow as a player and a person whenever possible. We believe that this creates an environment where the community experience is measured in quality in time, not quantity.
 ```
 
+### What to expect in this MILSIM?
+
 ```ruby
-who gives a fuck right?
+XDIA Realism Milsim has a long-standing tradition of furthering the possibilities of its game platforms. In the case of ARMA REFORGER, XDIA's main game, many of our leaders have pioneered new methods of gameplay through utilizing the game’s systems that other communities have not. Some examples of this that we pride ourselves on are Civilian Injection (Covert Operation), HVT Operations, Indirect Fire and Close Air Support, Custom Operational Objectives, Comprehensive Overwatch (Clearing Map Boundaries), and Dynamic Operational Changes (Enemy QRF, Bomb Threats, VBIED Placement, Pilot Failures, Mortar Interception, etc.). All of these unique possibilities created by our technically savvy members, combined with a narratively cohesive experience, creates a level of immersion and interest that lasts.
 ```
 
 #### Header 4
