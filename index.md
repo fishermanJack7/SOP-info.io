@@ -4,9 +4,13 @@ layout: default
 [Link to another page](./another-page.html).
 
 `Standard Operational Procedures (S.O.P)`.
-`This document is a collection of all policies, procedures, and tactics used by our Realism Milsim, and subsequently operatives as a whole. It serves as a resource and a guide, and should be referenced when training. This document will be updated periodically until its completion.
 
-While the tactics and methods described in this document are publicly available, the methods in which these tactics are curated and employed is specific to the SPECTRE Task Force.
+> This document is a collection of all policies, procedures, and tactics used by our Realism Milsim, and subsequently operatives as a whole. It serves as a resource and a guide, and should be referenced when training. This document will be updated periodically until its completion.
+> While the tactics and methods described in this document are publicly available, the methods in which these tactics are curated and employed is specific to the XDIA REALISM MILSIM.
+
+`What is XDIA`?
+> XDIA Realism Milsim is a wargaming community with a passion for operational competence through the use of tactics drawn from real-world military doctrine. We train to execute conflict-driven, narratively connected operations with a focus on immersion and variety in scope and objective. In short, XDIA is a military simulation group that strives to do MORE. The community is the product of years of development, thousands of hours of collective experience between our leadership, and learning from our mistakes. Through these things, SPECTRE as a whole strives to produce a unique, immersive military simulation experience.
+
 
 ## Header 2
 
