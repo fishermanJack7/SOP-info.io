@@ -67,7 +67,7 @@ XDIA Realism Milsim has a long-standing tradition of furthering the possibilitie
 - level 1 item
 
 ### Small image
-
+![ranks](https://github.com/fishermanJack7/SOP-info.io/blob/master/SOP-info.io-master/assets/images/ranks.png)
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
