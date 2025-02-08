@@ -31,7 +31,7 @@ XDIA Realism Milsim has a long-standing tradition of furthering the possibilitie
 ```
 
 ### Rank structure
-*   https://discord.com/channels/1184747461928034414/1184747463173754937
+![ranks](https://raw.githubusercontent.com/fishermanJack7/SOP-info.io/refs/heads/master/SOP-info.io-master/assets/images/ranks.png)
 
 #### Header 4
 
